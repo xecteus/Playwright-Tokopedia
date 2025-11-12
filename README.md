@@ -154,4 +154,4 @@ Scenario: Check Daftar Alamat elements (No Address)
 
 📧 [arievaldynoka@gmail.com](mailto:arievaldynoka@gmail.com)  
 🌐 [github.com/xecteus](https://github.com/xecteus)  
-💼 [linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/noka-arievaldy-58202521b/)
+💼 [linkedin.com/in/noka-arievaldy-58202521b](https://www.linkedin.com/in/noka-arievaldy-58202521b/)
